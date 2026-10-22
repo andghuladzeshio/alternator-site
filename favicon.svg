@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Alternator Studio favicon: follows the browser's light/dark theme. -->
+  <style>
+    .navy { fill: #1F2A44; }
+    .coral { fill: #E5484D; }
+    @media (prefers-color-scheme: dark) {
+      .navy { fill: #E3E8F3; }
+      .coral { fill: #F2555A; }
+    }
+  </style>
+  <path class="coral" d="M13 3 H19 L29 29 H23 Z"/>
+  <path class="navy" d="M13 3 H19 L9 29 H3 Z"/>
+</svg>

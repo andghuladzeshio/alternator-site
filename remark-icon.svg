@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <!-- Remark app icon, converted from androidApp/designSystem/.../ic_app_icon_teal.xml. -->
+  <path d="M53,0 H187 A53,53 0 0 1 240,53 V187 A53,53 0 0 1 187,240 H53 A53,53 0 0 1 0,187 V53 A53,53 0 0 1 53,0 Z" fill="#1A7A6D"/>
+  <path d="M 71 173 V 68 H 115 C 134 68, 144 79, 144 97 C 144 115, 134 127, 115 127 H 91 V 173 Z M 118 127 L 156 173 H 134 L 96 127 Z M 91 84 H 113 C 124 84, 128 91, 128 97 C 128 103, 124 111, 113 111 H 91 Z" fill="#FFFFFF" fill-rule="evenodd"/>
+  <path d="M163,168.5 H183 A3,3 0 0 1 186,171.5 A3,3 0 0 1 183,174.5 H163 A3,3 0 0 1 160,171.5 A3,3 0 0 1 163,168.5 Z" fill="#FFFFFF" fill-opacity="0.6"/>
+</svg>
